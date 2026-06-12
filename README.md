@@ -92,7 +92,7 @@ Simple-32bit-CPU-Verilog
 │   ├── timing_report.png
 │   ├── power_analysis.png
 │   └── utilization_report.png
-│
+|   └── schematic.png
 └── README.md
 ```
 
@@ -252,7 +252,7 @@ Resource utilization report generated using Vivado.
 
 ### Utilization Report
 
-![Resource Utilization](results/utilization_report.png)
+![Resource Utilization](results/utilization.png)
 
 ---
 

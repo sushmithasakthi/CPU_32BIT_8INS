@@ -205,6 +205,10 @@ The design was verified using a custom Verilog Testbench.
 - SLT Operation
 
 ---
+## Schematic Diagram
+![schematic](results/schematic.png)
+![schematic1](results/schematic1.png)
+
 
 ## Waveform Verification
 

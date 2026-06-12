@@ -75,7 +75,7 @@ The design follows a modular architecture, making it easy to understand and exte
 ## Directory Structure
 
 ```text
-Simple-32bit-CPU-Verilog
+32bit-CPU
 │
 ├── src
 │   ├── CPU.v
